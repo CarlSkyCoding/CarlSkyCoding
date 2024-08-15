@@ -9,7 +9,7 @@ My technical stack includes Java, PHP, and WebFront (like HTML, CSS, and JavaScr
 I have some operational knowledge and have accumulated a wealth of hobbies and experience over time.<br>
 If you are interested, please feel free to visit the latest project I have participated in.<br>
 
-(Notanote)[https://notanote.cn] (Music games published on Taptap and Steam)<br>
-(SPECIALIZED)[https://specialized.work] (Hypixel accelerator)<br>
+[Notanote](https://notanote.cn) (Music games published on Taptap and Steam)<br>
+[SPECIALIZED](https://specialized.work) (Hypixel accelerator)<br>
 
 If my project can help you or make you happy, please click a star and follow, I would be very grateful :D<br>
