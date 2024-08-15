@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello! My name is Sky 👋
 
-<!--
-**CarlSkyCoding/CarlSkyCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+I am a high school senior from China,
+You can call me ``` Sky ``` or ``` CarlSky ```,
+I am currently working with ``` ZzzProject ``` / ``` NLR DevTeam ``` / ``` REPhigrOS Team ```.
 
-Here are some ideas to get you started:
+My technical stack includes Java, PHP, and WebFront (like HTML, CSS, and JavaScript),
+I have some operational knowledge and have accumulated a wealth of hobbies and experience over time.
+If you are interested, please feel free to visit the latest project I have participated in.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(Notanote)[https://notanote.cn] (Music games published on Taptap and Steam)
+(SPECIALIZED)[https://specialized.work] (Hypixel accelerator)
+
+If my project can help you or make you happy, please click a star and follow, I would be very grateful :D
