@@ -2,7 +2,7 @@
 
 ### About me
 I am a high school senior from China,<br>
-My chinese name is ``` 凌云 ``` or ``` 水库鱼 ```<br>
+My chinese name is ``` 凌羽 ```<br>
 You can call me ``` Sky ``` or ``` CarlSky ```,<br>
 I am currently working with ``` ZzzProject ``` / ``` NLR DevTeam ``` / ``` REPhigrOS Team ```.<br>
 
