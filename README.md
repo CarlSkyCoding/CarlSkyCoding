@@ -3,7 +3,7 @@
 ### About me
 I am a high school senior from China,<br>
 My chinese name is ``` 凌羽 ```<br>
-You can call me ``` Sky ``` or ``` CarlSky ```,<br>
+You can call me ``` Sky ```,<br>
 I am currently working with ``` ZzzProject ``` / ``` NLR DevTeam ``` / ``` REPhigrOS Team ```.<br>
 
 My technical stack includes Java, PHP, and WebFront (like HTML, CSS, and JavaScript),<br>
