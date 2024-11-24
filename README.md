@@ -6,7 +6,7 @@ My chinese name is ``` 凌羽 ```<br>
 You can call me ``` Sky ```,<br>
 I am currently working with ``` ZzzProject ``` / ``` NLR DevTeam ``` / ``` REPhigrOS Team ```.<br>
 
-My technical stack includes Java, PHP, and WebFront (like HTML, CSS, and JavaScript),<br>
+My technical stack includes Nodejs, Java, PHP, and WebFront (like HTML, CSS, and JavaScript),<br>
 I have some operational knowledge and have accumulated a wealth of hobbies and experience over time.<br>
 If you are interested, please feel free to visit the latest project I have participated in.<br>
 
