@@ -11,6 +11,7 @@ I have some operational knowledge and have accumulated a wealth of hobbies and e
 If you are interested, please feel free to visit the latest project I have participated in.<br>
 
 [Notanote](https://notanote.cn) (Music games published on Taptap and Steam)<br>
-[SPECIALIZED](https://specialized.work) (Hypixel accelerator)<br>
+[SPECIALIZED](https://hypixel-free.cn) (Hypixel accelerator)[SUPPORTING STOPPED]<br>
+** Due to economic and academic reasons, the SPECIALIZE program had to be temporarily terminated. **
 
 If my project can help you or make you happy, please click a star and follow, I would be very grateful :D<br>
