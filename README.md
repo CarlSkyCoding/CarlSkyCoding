@@ -12,6 +12,6 @@ If you are interested, please feel free to visit the latest project I have parti
 
 [Notanote](https://notanote.cn) (Music games published on Taptap and Steam)<br>
 [CubeNet](https://cubenet.cn) (A programming group[I really don't have time to maintain him anymore, he may be shut down at any time])<br>
-[VOIC](https://carlsky.cn/voic) (Hypixel accelerator)[SUPPORTING]<br>
+[VOIC](https://carlsky.cn/voic) (Hypixel accelerator)[NOT IN SUPPORTING]<br>
 
 If my project can help you or make you happy, please click a star and follow, I would be very grateful :D<br>
